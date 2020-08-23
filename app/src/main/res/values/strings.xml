@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Fatih Kurçenli</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_for_me">Hi, my name is Fatih\n\n I Love Coding \n\n I work regularly every day and improve myself\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fermentum lacus in dui condimentum, eget sollicitudin felis sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus hendrerit tincidunt velit a vulputate. Maecenas at enim maximus, pellentesque felis sed, scelerisque est. Nunc facilisis sagittis quam a maximus. Curabitur lorem leo, convallis id tortor ac, tempor tincidunt ipsum. Sed rhoncus accumsan semper. Duis tempor pretium tempor.
+
+Etiam ex metus, tincidunt ac ante nec, auctor ullamcorper tellus. Suspendisse sit amet fermentum leo. Sed quis sapien non lectus ullamcorper euismod. Vestibulum in ante quis nibh feugiat pulvinar. Aliquam vulputate velit erat, nec suscipit ligula condimentum et. Integer et lacinia est. Phasellus augue enim, suscipit ut sollicitudin fringilla, eleifend sit amet erat. Vestibulum vel mollis turpis, vitae pellentesque diam. Cras et nibh vel felis rutrum finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam sodales arcu ut hendrerit posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean lacus libero, lacinia nec nisi a, aliquam tristique magna. Etiam quis ante quam. Nunc vitae sapien velit.
+
+Vestibulum eget purus dui. Phasellus dolor justo, suscipit sed dapibus quis, efficitur at est. Morbi vel convallis leo. Vivamus dignissim elit in tortor ullamcorper, vel commodo mauris mattis. Donec tempor lectus felis, ut aliquet lacus convallis vel. Maecenas blandit eu justo sed tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin porttitor id turpis eu aliquet. Aliquam erat volutpat. Sed vitae elementum ante, vitae ullamcorper neque. Proin sodales pharetra felis sit amet fermentum. Integer commodo tincidunt felis, quis ultricies augue accumsan non. Proin molestie a est in volutpat.
+
+Sed egestas dui id metus scelerisque molestie. Quisque vel lectus tortor. Nam et dolor nisl. In tempus lacus id vulputate malesuada. Sed vel cursus augue. Nam quis sollicitudin velit. Pellentesque tempor dolor a nisi ullamcorper, at pulvinar urna feugiat. Quisque varius felis vitae laoreet malesuada.
+
+Proin vel efficitur mauris. Nunc metus ligula, faucibus at aliquam id, auctor id orci. Aliquam quis cursus arcu, at rutrum augue. Duis dui risus, lobortis a nibh non, venenatis sodales est. Aliquam a semper nibh. Praesent vitae scelerisque sapien. Nulla viverra facilisis porta. Ut sit amet est lobortis, aliquet tortor at, sagittis nisi. Donec varius ipsum vel ipsum porta convallis. Nullam vitae tristique nisl.</string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+</resources>
